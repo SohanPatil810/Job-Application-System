@@ -203,20 +203,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Login
-- Register
-- Candidate Dashboard
-- Recruiter Dashboard
-- Job Listings
-- Apply Job Page
-
----
-
 # 🌟 Future Enhancements
 
 - Email Notifications
